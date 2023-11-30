@@ -1,4 +1,4 @@
-# optimization_proj1 - Emerging Optimization Methods in Online Food Delivery Services
+# Emerging Optimization Methods in Online Food Delivery Services
 
 Objective: The aim is to minimize the overall cost of delivering food. The cost consists of two parts:
 
